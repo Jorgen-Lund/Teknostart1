@@ -1,5 +1,4 @@
-"Git-Kurs"
-
-"" 12.08.2020""
-
-"""Her lærte vi mye nyttig, **til tross** for at det gikk en _smule_ raskt noen ganger ;)"""
+# Git-Kurs
+## 12.08.2020
+### Hva lærte vi?
+"Her lærte vi mye **nyttig**, men det gikk til tider _ganske_ så kjapt."
